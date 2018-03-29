@@ -1,3 +1,12 @@
+Twitter Bot: HarambeStealYoGirl 
+(https://twitter.com/StealYoHarambae/with_replies) 
+
+The twitter bot is engaging with hashtags such as #thirdwheel, #foreveralone, #singleaf and other various tags in attempt to reach users that are alone or feel like their love life is lacking. The twitter bot provides those users with attention that they may not be used to with pickup lines, song lyrics, or romantic quotes taken from other twitter timelines. The twitter bot takes on a humorous role, but more importantly it prolongs the legacy of the late but great Harambe. So far the community reflects a prideful attitude as they reject the compassion of the twitter bot just because there is a gorilla aspect to it.
+
+Conceptually I wanted to match a random pickup line or quote with a user’s tweet. For example, if the given line had the word “fire” in it, the bot would reply to a tweet that had the hashtag of fire. The difficulty was finding a keyword in a line. I tried splitting the string of a quote into separate words and finding the first word that has a greater length than four and hope that the response would mostly match with a tweet. However, I wasn’t able execute the code with a seemingly simple algorithm. 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 #ExampleBot
 
 This bot retweets the latest tweet using the "#mediaarts" hashtag. It attempts to retweet once per hour.
